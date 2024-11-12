@@ -370,6 +370,33 @@ ul .servi_iner{
 }
 
 
+@media screen and (max-width: 1024px) {
+  nav {
+    flex-direction: column;
+    padding-right: 20px;
+  }
+
+  nav .left ul li {
+    font-size: 40px;
+  }
+
+  section.top {
+    flex-direction: column;
+  }
+
+  main .middle .middle_container {
+    flex-direction: column;
+  }
+
+  footer ul.ul_last li {
+    font-size: 18px;
+    padding: 25px;
+  }
+
+  footer .top_footer ul li div ul li {
+    font-size: 14px;
+}
+}
 
 
 
