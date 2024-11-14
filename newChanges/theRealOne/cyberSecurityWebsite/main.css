@@ -252,7 +252,7 @@ footer ul.ul_last li{
 }
 
 .news{
-  padding:20px 70px;
+  padding:20px 20px;
   text-align: center;
 }
 .news ul li.intro{
@@ -270,7 +270,7 @@ footer ul.ul_last li{
 .news ul li.intro ul li.intro2{
   display: inline-block;
   list-style-type: none;
-  padding: 20px;
+  padding: 10px;
 
   
 }
